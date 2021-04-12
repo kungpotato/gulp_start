@@ -1,0 +1,1 @@
+"use strict";var _app=require("./app/app");(0,_app.app)(),console.log("test");

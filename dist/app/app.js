@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.app=void 0;var app=function(){var e;e={x:12,y:26,z:45},console.log("".concat(e.x,", ").concat(e.y))};exports.app=app;
